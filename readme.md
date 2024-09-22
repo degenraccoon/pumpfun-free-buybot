@@ -1,6 +1,9 @@
 # Pump.fun Buy Bot by @degenraccoon
 
-This is a simple, free to use bot that will buy a specified token on pump.fun
+This is a simple, free to use bot that will buy a specified token on pump.fun.
+
+!!If you need a custom volume bot, auto sniper, bump bot for pump.fun/solana, contact @degenraccoon on TG
+!!We have a ready to use auto sniper for sale, contact @degenraccoon on TG
 
 ## What will you need for this script?
 
